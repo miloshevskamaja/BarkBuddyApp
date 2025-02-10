@@ -1,0 +1,2 @@
+# BarkBuddyApp_MVC
+An ASP.NET MVC web application for an online pet shop specializing in dog food and accessories. The app allows users to browse products, filter by brand and category, add items to a shopping cart, and place orders. It also includes a scheduling feature for dog grooming appointments, allowing users to book a date and time. Admins can manage products, orders, customer information, and grooming appointments. The system includes a secure checkout process for a seamless shopping experience
